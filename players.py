@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 st.title("Tonga USA Golf Tournament 2025 at Bluerock Golf Course, Vallejo CA")
-st.write("August 22nd and 23rd, 2025")
-st.write("Players List")
+st.subheader("August 22nd and 23rd, 2025")
+st.subheader("Players List")
 st.write()
 
 data = pd.read_csv("players.csv")
