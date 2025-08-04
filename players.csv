@@ -1,49 +1,49 @@
-,Name,Sex,From,Amt. Paid,,,,,,
-1,"Clark, Brady",M,"Bay Area, CA",,,,,,,
-2,"Sitauti, Moses",M,"Bay Area, CA",,,,,,,
-3,"Vakameilalo, Pauli",M,"Phoenix, AZ",,,,,,,
-4,"Sekona, Loa",M,"Salt Lake, UT",,,,,,,
-5,"Vailala, Fatai",M,"Bay Area, CA",,,,,,,
-6,"Fe'ao, Chris",M,"SoCal, CA",,,,,,,
-7,"Tu'ikolovatu, 'Otulea",M,"SoCal, CA",,,,,,,
-8,"Fuahala, Hausia",M,"SoCal, CA",,,,,,,
-9,"Hafoka, Tausinga",M,"Maui, HI",,,,,,,
-10,"Tu'utafaiva, Hepeti",M,"Bay Area, CA",,,,,,,
-11,"Ongoongotau, Vaha",M,"Salt Lake, UT",,,,,,,
-12,Walt,M,"SoCal, CA",,,,,,,
-13,"'Esikia, Felila",M,"Bay Area, CA", $100.00 ,,,,,,
-14,"Lau'ese, Laine",M,"Bay Area, CA",,,,,,,
-15,"Tu'ipulotu, Tu'akalau",M,"Phoenix, AZ",,,,,,,
-16,"Fakava, Simi",M,"Bay Area, CA",,,,,,,
-17,"Matu, Pope",M,"Bay Area, CA",,,,,,,
-18,"Tu'iono, Master",M,"Bay Area, CA", $100.00 ,,,,,,
-19,"Pulotu, Penili",M,"Phoenix, AZ",,,,,,,
-20,"Pulu, Semisi",M,"Phoenix, AZ",,,,,,,
-21,"Savou, Netane",M,"Maui, HI",,,,,,,
-22,"Setoki, Tevita",M,"Phoenix, AZ",,,,,,,
-23,"Toki, Sailopa",M,"Maui, HI",,,,,,,
-24,"Vea, 'Afa",M,"SoCal, CA",,,,,,,
-25,"Fale'ofa, Tevita",M,"Bay Area, CA",,,,,,,
-26,"Kinikini, Lyle",M,"Salt Lake, UT", $300.00 ,,,,,,
-27,"Kongaika, Tevita",M,"Bay Area, CA",,,,,,,
-28,"Talivakaola, Valu",M,Tonga,,,,,,,
-29,"'Akau'ola, Lani",M,"Bay Area, CA",,,,,,,
-30,"Kafoa, Sefo",M,"Bay Area, CA",,,,,,,
-31,"Moala, Junior",M,"Bay Area, CA", $200.00 ,,,,,,
-32,"Pale, Kisione",M,"Bay Area, CA", $300.00 ,,,,,,
-33,"Katoa, Frank",M,"Bay Area, CA",,,,,,,
-34,"Ngalu, Vili",M,"Maui, HI",,,,,,,
-35,"Ngatuvai, Nuku",M,"Bay Area, CA",,,,,,,
-36,"Tukuafu, Masa",M,"Phoenix, AZ", $150.00 ,,,,,,
-37,"Virelas, Martin",M,"Bay Area, CA", $300.00 ,,,,,,
-38,"Moala, Tommy",M,"Bay Area, CA",,,,,,,
-39,"Savou Jr, Netane",M,"Maui, HI",,,,,,,
-40,"'Uhatafe, Pepe",M,"Phoenix, AZ",,,,,,,
-41,"'Iongi, Manoa",M,"Phoenix, AZ",,,,,,,
-42,"Lelea, Sia",F,"Phoenix, AZ", $150.00 ,,,,,,
-43,"Fe'ao, Carla",F,"SoCal, CA",,,,,,,
-44,"Fonua, Linda",F,"Phoenix, AZ", $150.00 ,,,,,,
-45,"Tu'ipulotu, Pisila",F,"Phoenix, AZ",,,,,,,
-46,"Bills, Mele",F,"Phoenix, AZ",,,,,,,
-47,"Tu'utafaiva, Sela",F,"Bay Area, CA",,,,,,,
-48,"Doney, Jessica",F,"Phoenix, AZ",,,,,,,
+#,Name,Sex,From,Amt. Paid
+1,"'Akau'ola, Lani",M,"Bay Area, CA" 
+2,"Clark, Brady",M,"Bay Area, CA" 
+3,"'Esikia, Felila",M,"Bay Area, CA", $100.00 
+4,"Fakava, Simi",M,"Bay Area, CA" 
+5,"Fale'ofa, Tevita",M,"Bay Area, CA" 
+6,"Kafoa, Sefo",M,"Bay Area, CA" 
+7,"Katoa, Frank",M,"Bay Area, CA" 
+8,"Kongaika, Tevita",M,"Bay Area, CA" 
+9,"Lau'ese, Laine",M,"Bay Area, CA" 
+10,"Matu, Pope",M,"Bay Area, CA" 
+11,"Moala, Junior",M,"Bay Area, CA", $200.00 
+12,"Moala, Tommy",M,"Bay Area, CA" 
+13,"Ngatuvai, Nuku",M,"Bay Area, CA" 
+14,"Pale, Kisione",M,"Bay Area, CA", $300.00 
+15,"Sitauti, Moses",M,"Bay Area, CA" 
+16,"Tu'iono, Master",M,"Bay Area, CA", $100.00 
+17,"Tu'utafaiva, Hepeti",M,"Bay Area, CA" 
+18,"Tu'utafaiva, Sela",F,"Bay Area, CA" 
+19,"Vailala, Fatai",M,"Bay Area, CA" 
+20,"Virelas, Martin",M,"Bay Area, CA", $300.00 
+21,"Hafoka, Tausinga",M,"Maui, HI" 
+22,"Ngalu, Vili",M,"Maui, HI" 
+23,"Savou Jr, Netane",M,"Maui, HI" 
+24,"Savou, Netane",M,"Maui, HI" 
+25,"Toki, Sailopa",M,"Maui, HI" 
+26,"Bills, Mele",F,"Phoenix, AZ" 
+27,"Doney, Jessica",F,"Phoenix, AZ" 
+28,"Fonua, Linda",F,"Phoenix, AZ", $150.00 
+29,"'Iongi, Manoa",M,"Phoenix, AZ" 
+30,"Lelea, Sia",F,"Phoenix, AZ", $150.00 
+31,"Pulotu, Penili",M,"Phoenix, AZ" 
+32,"Pulu, Semisi",M,"Phoenix, AZ" 
+33,"Setoki, Tevita",M,"Phoenix, AZ" 
+34,"Tu'ipulotu, Pisila",F,"Phoenix, AZ" 
+35,"Tu'ipulotu, Tu'akalau",M,"Phoenix, AZ" 
+36,"Tukuafu, Masa",M,"Phoenix, AZ", $150.00 
+37,"'Uhatafe, Pepe",M,"Phoenix, AZ" 
+38,"Vakameilalo, Pauli",M,"Phoenix, AZ" 
+39,"Kinikini, Lyle",M,"Salt Lake, UT", $300.00 
+40,"Ongoongotau, Vaha",M,"Salt Lake, UT" 
+41,"Sekona, Loa",M,"Salt Lake, UT" 
+42,"Fe'ao, Carla",F,"SoCal, CA" 
+43,"Fe'ao, Chris",M,"SoCal, CA" 
+44,"Fuahala, Hausia",M,"SoCal, CA" 
+45,"Tu'ikolovatu, 'Otulea",M,"SoCal, CA" 
+46,"Vea, 'Afa",M,"SoCal, CA" 
+47,Walt,M,"SoCal, CA" 
+48,"Talivakaola, Valu",M,Tonga 
