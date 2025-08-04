@@ -3,6 +3,7 @@ import pandas as pd
 
 #st.code(line_number=False)
 
+st.image("logo2.jpg")
 st.title("Tonga USA Golf Tournament")
 st.subheader("At the Bluerock Golf Course (East), Vallejo CA")
 st.subheader("8/22 and 8/23 2025")
