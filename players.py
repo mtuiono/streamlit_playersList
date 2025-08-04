@@ -5,7 +5,7 @@ import pandas as pd
 
 st.title("Tonga USA Golf Tournament")
 st.subheader("At the Bluerock Golf Course (East), Vallejo CA")
-st.subheader("August 22nd and 23rd, 2025")
+st.subheader("8/22 and 8/23 2025")
 st.subheader("Players List")
 st.write()
 st.divider()
