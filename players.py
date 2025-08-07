@@ -5,8 +5,7 @@ import pandas as pd
 
 st.image("logo2.jpg",width=80)
 st.title("TUGC 2025 Tournament")
-st.subheader("Bluerock Golf Course,Vallejo CA")
-st.subheader("8/22 and 8/23 2025")
+st.subheader("Bluerock Golf Course,Vallejo CA, 8/22 and 8/23")
 st.write("Players List as of 8/7/25")
 st.write()
 st.divider()
