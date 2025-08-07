@@ -4,8 +4,8 @@ import pandas as pd
 #st.code(line_number=False)
 
 st.image("logo2.jpg",width=80)
-st.title("Tonga USA Golf Tournament")
-st.subheader("At the Bluerock Golf Course (East), Vallejo CA")
+st.title("TUGC 2025 Tournament")
+st.subheader("Bluerock Golf Course,Vallejo CA")
 st.subheader("8/22 and 8/23 2025")
 st.write("Players List as of 8/7/25")
 st.write()
