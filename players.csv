@@ -2,11 +2,11 @@ Name,Sex,From,Amt. Paid
 "'Akau'ola, Lani",M,"Bay Area, CA", 
 "Clark, Brady",M,"Bay Area, CA", 
 "'Esikia, Felila",M,"Bay Area, CA", $100.00 
-"Fakava, Simi",M,"Bay Area, CA", 
+"Fakava, Simi",M,"Bay Area, CA", $300.00 
 "Fale'ofa, Tevita",M,"Bay Area, CA", 
 "Hokafonu, Solo",M,"Bay Area, CA", 
 "Kafoa, Sefo",M,"Bay Area, CA", 
-"Katoa, Frank",M,"Bay Area, CA", 
+"Katoa, Frank",M,"Bay Area, CA", $300.00  
 "Kongaika, Tevita",M,"Bay Area, CA", 
 "Lau'ese, Laine",M,"Bay Area, CA", 
 "Matu, Pope",M,"Bay Area, CA", 
@@ -35,15 +35,15 @@ Name,Sex,From,Amt. Paid
 "Pulu, Semisi",M,"Phoenix, AZ", 
 "Setoki, Tevita",M,"Phoenix, AZ", 
 "Tukuafu, Masa",M,"Phoenix, AZ", $150.00 
-"'Uhatafe, Pepe",M,"Phoenix, AZ", 
+"'Uhatafe, Pepe",M,"Phoenix, AZ", $300.00 
 "Vakameilalo, Pauli",M,"Phoenix, AZ", 
 "Kinikini, Lyle",M,"Salt Lake, UT", $300.00 
 "Ongoongotau, Vaha",M,"Salt Lake, UT", 
 "Sekona, Loa",M,"Salt Lake, UT", 
 "Fe'ao, Carla",F,"SoCal, CA", 
 "Fe'ao, Chris",M,"SoCal, CA", 
-"Fuahala, Hausia",M,"SoCal, CA", 
-"Tu'ikolovatu, 'Otulea",M,"SoCal, CA", 
+"Fuahala, Hausia",M,"SoCal, CA", $100.00 
+"Tu'ikolovatu, 'Otulea",M,"SoCal, CA", $100.00 
 "Vea, 'Afa",M,"SoCal, CA", 
 "Walt",M,"SoCal, CA", 
 "Talivakaola, Valu",M,Tonga, 
