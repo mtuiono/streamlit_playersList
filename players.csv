@@ -1,49 +1,49 @@
-Name,Sex,From,Amt. Paid
-"'Akau'ola, Lani",M,"Bay Area, CA", 
-"Clark, Brady",M,"Bay Area, CA", 
-"'Esikia, Felila",M,"Bay Area, CA", $100.00 
-"Fakava, Simi",M,"Bay Area, CA", $300.00 
-"Fale'ofa, Tevita",M,"Bay Area, CA", 
-"Hokafonu, Solo",M,"Bay Area, CA", 
-"Kafoa, Sefo",M,"Bay Area, CA", 
-"Katoa, Frank",M,"Bay Area, CA", $300.00  
-"Kongaika, Tevita",M,"Bay Area, CA", 
-"Lau'ese, Laine",M,"Bay Area, CA", 
-"Matu, Pope",M,"Bay Area, CA", 
-"Moala, Junior",M,"Bay Area, CA", $200.00 
-"Moala, Tommy",M,"Bay Area, CA", 
-"Ngatuvai, Nuku",M,"Bay Area, CA", 
-"Pale, Kisione",M,"Bay Area, CA", $300.00 
-"Pome'e, Sonasi",M,"Bay Area, CA",  
-"Sitauti, Moses",M,"Bay Area, CA", 
-"Tu'iono, Master",M,"Bay Area, CA", $100.00 
-"Tu'utafaiva, Hepeti",M,"Bay Area, CA", $300.00 
-"Tu'utafaiva, Sela",F,"Bay Area, CA", $300.00 
-"Vailala, Fatai",M,"Bay Area, CA", 
-"Virelas, Martin",M,"Bay Area, CA", $300.00 
-"Hafoka, Tausinga",M,"Maui, HI", 
-"Ngalu, Vili",M,"Maui, HI", 
-"Savou Jr, Netane",M,"Maui, HI", 
-"Savou, Netane",M,"Maui, HI", 
-"Toki, Sailopa",M,"Maui, HI", 
-"Bills, Mele",F,"Phoenix, AZ", 
-"Doney, Jessica",F,"Phoenix, AZ", 
-"Fonua, Linda",F,"Phoenix, AZ", $150.00 
-"'Iongi, Manoa",M,"Phoenix, AZ", 
-"Lelea, Sia",F,"Phoenix, AZ", $150.00 
-"Pulotu, Penili",M,"Phoenix, AZ", 
-"Pulu, Semisi",M,"Phoenix, AZ", 
-"Setoki, Tevita",M,"Phoenix, AZ", 
-"Tukuafu, Masa",M,"Phoenix, AZ", $150.00 
-"'Uhatafe, Pepe",M,"Phoenix, AZ", $300.00 
-"Vakameilalo, Pauli",M,"Phoenix, AZ", 
-"Kinikini, Lyle",M,"Salt Lake, UT", $300.00 
-"Ongoongotau, Vaha",M,"Salt Lake, UT", 
-"Sekona, Loa",M,"Salt Lake, UT", 
-"Fe'ao, Carla",F,"SoCal, CA", 
-"Fe'ao, Chris",M,"SoCal, CA", 
-"Fuahala, Hausia",M,"SoCal, CA", $100.00 
-"Tu'ikolovatu, 'Otulea",M,"SoCal, CA", $100.00 
-"Vea, 'Afa",M,"SoCal, CA", 
-"Walt",M,"SoCal, CA", 
-"Talivakaola, Valu",M,Tonga, 
+Name,Amt. Paid
+"'Akau'ola, Lani"   , 
+"Clark, Brady"   , 
+"'Esikia, Felila"   , $100.00 
+"Fakava, Simi"   , $300.00 
+"Fale'ofa, Tevita"   , 
+"Hokafonu, Solo"   , 
+"Kafoa, Sefo"   , 
+"Katoa, Frank"   , $300.00  
+"Kongaika, Tevita"   , 
+"Lau'ese, Laine"   , 
+"Matu, Pope"   , 
+"Moala, Junior"   , $200.00 
+"Moala, Tommy"   , 
+"Ngatuvai, Nuku"   , 
+"Pale, Kisione"   , $300.00 
+"Pome'e, Sonasi"   ,  
+"Sitauti, Moses"   , 
+"Tu'iono, Master"   , $100.00 
+"Tu'utafaiva, Hepeti"   , $300.00 
+"Tu'utafaiva, Sela", $300.00 
+"Vailala, Fatai"   , 
+"Virelas, Martin"   , $300.00 
+"Hafoka, Tausinga"    , 
+"Ngalu, Vili"    , 
+"Savou Jr, Netane"    , 
+"Savou, Netane"    , 
+"Toki, Sailopa"    , 
+"Bills, Mele", 
+"Doney, Jessica", 
+"Fonua, Linda", $150.00 
+"'Iongi, Manoa", 
+"Lelea, Sia", $150.00 
+"Pulotu, Penili", 
+"Pulu, Semisi", 
+"Setoki, Tevita", 
+"Tukuafu, Masa", $150.00 
+"'Uhatafe, Pepe", $300.00 
+"Vakameilalo, Pauli", 
+"Kinikini, Lyle" , $300.00 
+"Ongoongotau, Vaha"     , 
+"Sekona, Loa"      , 
+"Fe'ao, Carla", 
+"Fe'ao, Chris"       , 
+"Fuahala, Hausia"       , $100.00 
+"Tu'ikolovatu, 'Otulea" , $100.00 
+"Vea, 'Afa"    , 
+"Walt", 
+"Talivakaola, Valu", 
