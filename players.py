@@ -7,7 +7,7 @@ st.image("logo2.jpg",width=80)
 st.title("Tonga USA Golf Tournament")
 st.subheader("At the Bluerock Golf Course (East), Vallejo CA")
 st.subheader("8/22 and 8/23 2025")
-st.subheader("Players List as of 8/7/25")
+st.write("Players List as of 8/7/25")
 st.write()
 st.divider()
 
