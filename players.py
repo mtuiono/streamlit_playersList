@@ -8,10 +8,8 @@ import datetime
 #st.image("logo2.jpg",width=80)
 st.title("TUGC 2025 Golf Tournament")
 st.subheader("Bluerock Golf Course,Vallejo CA, 8/22 and 8/23")
-st.write("Players List as of ",endl=" ")
-x = datetime.datetime.now()
-x.strftime("%x")
-st.write(x)
+st.write("Players List as of 8/8/25 ")
+
 
 st.divider()
 
