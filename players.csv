@@ -3,9 +3,10 @@ Name,Amt. Paid
 "Fakava, Simi", $300.00  
 "Katoa, Frank", $300.00 
 "Fonua, Willie", $300.00
-"Kinikini, Lyle", $300.00  
-"Pale, Kisione", $300.00  
+"Kinikini, Lyle", $300.00 
+"Matu, Pope" , $300.00
 "Moala, Junior", $300.00 
+"Pale, Kisione", $300.00  
 "Paongo, Rich", $300.00  
 "Sitauti, Moses" ,  $300.00  
 "Tu'utafaiva, Hepeti", $300.00  
@@ -18,12 +19,12 @@ Name,Amt. Paid
 "Tukuafu, Masa", $150.00 
 "Doney, Jessica" , $100.00 
 "'Esikia, Felila", $100.00  
+"Fale'ofa, Tevita", 
 "Fehoko, 'Ofa", $100.00  
 "Fuahala, Hausia", $100.00  
 "Hokafonu, Solo" ,  $100.00 
 "Kongaika, Tevita" , $100.00
 "Lau'ese, Laine" , $100.00
-"Matu, Pope" , $100.00
 "Moala, Tommy" ,  $100.00
 "'Iongi, Manoa" ,  $100.00 
 "Ma'ake, Talo", $100.00
@@ -34,7 +35,6 @@ Name,Amt. Paid
 "'Akau'ola, Lani" , 
 "Arwine, Walt", 
 "Cruce, Buzz", 
-"Fale'ofa, Tevita", 
 "Fe'ao, Carla" ,    
 "Fe'ao, Chris" ,   
 "Fiefia, Tevita", 
@@ -49,6 +49,7 @@ Name,Amt. Paid
 "Pulu, Semisi" , 
 "Pulu, Tevita" ,   
 "Setoki, Tevita" , 
+"Siale, Sione" , 
 "Talivakaola, Valu" ,  
 "Toki, Sailopa" ,  
 "Vailala, Fatai" , 
